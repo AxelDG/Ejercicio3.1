@@ -1,2 +1,2 @@
-# Ejercicio3.1
+# Ejercicio3
 Created with CodeSandbox
